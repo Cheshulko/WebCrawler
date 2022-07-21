@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainScreen.qml</file>
+        <file>ParsingProgress.qml</file>
+        <file>Logger.qml</file>
+        <file>input/InputUrl.qml</file>
+        <file>input/InputSettings.qml</file>
+        <file>input/InputSearchText.qml</file>
+    </qresource>
+</RCC>

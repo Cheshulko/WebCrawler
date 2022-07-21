@@ -32,5 +32,7 @@ List of Succeed/Failed scanned Urls, occurrences of pattern, and Urls on that pa
   
 ## UI
 
+![](Screenshots/Screenshot1.png)
+
 ## License
 MIT  
